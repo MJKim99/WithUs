@@ -3,6 +3,8 @@
 
 펀딩이란 판매자가 제품 기획을 하고, 기획된 제품에 소비자가 펀딩을 하여 목표한 펀딩 금액 달성 시 모인 펀딩 금액으로 제품을 기획하고 출시하는 것이다.
 
+[프로젝트 발표 영상](https://www.youtube.com/watch?v=nrJnLfMdHFo&list=PLedGoSru794850VQuzA4qUV1j_cN71WTe)
+
 <br>
 
 ## Development Environment & Tools
